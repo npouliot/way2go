@@ -1,0 +1,6 @@
+.morecontent span,.morecontent2 span {
+    display: none;
+}
+.morelink, .morelink2 {
+    display: block;
+}
